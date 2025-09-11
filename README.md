@@ -17,7 +17,7 @@ Instead of relying on a **data analyst** or manually checking the database, the 
 
 **Keywords:** RAG · Conversational AI · Data Automation · Intelligent Agent · Admin Insights
 
-**Demo Video:** *[Link_to_MyDrive](https://drive.google.com/file/d/1UhIrXfExn-oqhP0nkRbwlG81I7cN1KIL/view?usp=drive_link)*   
+**Demo Video:** *[UI/UX_Video](https://drive.google.com/file/d/1UhIrXfExn-oqhP0nkRbwlG81I7cN1KIL/view?usp=drive_link)*   
 
 **Repository:** [Mobile_App_ChatBot](https://github.com/Hedi-Bk/Mobile_App_ChatBot)  
 
