@@ -13,10 +13,11 @@ Each project is documented with its **name**, a **short description**, and resou
 An **AI-powered chatbot** that applies **Retrieval-Augmented Generation (RAG)** to transform the way admins interact with data.  
 
 Instead of relying on a **data analyst** or manually checking the database, the admin can simply **query the chatbot** to instantly access key insights (number of users, products purchased, etc.).  
+**Keywords:** RAG · Conversational AI · Data Automation · Intelligent Agent · Admin Insights
 
- **Keywords:** RAG · Conversational AI · Data Automation · Intelligent Agent · Admin Insights
- **Demo Video:** *[Link_to_MyDrive](https://drive.google.com/file/d/1UhIrXfExn-oqhP0nkRbwlG81I7cN1KIL/view?usp=drive_link)*   
- **Repository:** [Mobile_App_ChatBot](https://github.com/Hedi-Bk/Mobile_App_ChatBot)  
+**Demo Video:** *[Link_to_MyDrive](https://drive.google.com/file/d/1UhIrXfExn-oqhP0nkRbwlG81I7cN1KIL/view?usp=drive_link)*   
+
+**Repository:** [Mobile_App_ChatBot](https://github.com/Hedi-Bk/Mobile_App_ChatBot)  
 
 ---
 
