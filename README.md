@@ -1,6 +1,6 @@
 # 🤖 Agentic AI Space  
 
-Welcome to **Agentic AI Space** 🚀  
+Welcome to **Agentic AI Space** 
 This repository gathers my projects around **Agentic AI**, exploring the creation of intelligent agents capable of reasoning, interacting, and learning autonomously.  
 
 ---
