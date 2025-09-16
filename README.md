@@ -40,9 +40,6 @@ More projects will be added soon to enrich this space and dive deeper into the w
 ---
 
 ## Author  
-
-| Name | Contact |
-|------|---------|
-| 👋 **Ben Khalifa El Hedi** | ✉️ [GitHub Profile](https://github.com/Hedi-Bk) · 🔗 [LinkedIn](https://www.linkedin.com/in/hedi-ben-khalifa/) |
+👋 **Ben Khalifa El Hedi** (Me)
 
 ---
